@@ -59,7 +59,7 @@ The script will fetch Google Trends data and generate insights with both **conso
 
 ### 🔹 Weekly Search Interest (Data Science)
 
-![Weekly Data Science](searchinterest.png)
+![Weekly Data Science](seachinterest.png)
 
 ### 🔹 Blockchain Popularity (5 Years)
 
