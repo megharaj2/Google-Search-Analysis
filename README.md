@@ -31,17 +31,6 @@ It provides insights into **interest over time, regional popularity, related que
 ## 🛠️ Installation
 Make sure you have Python 3.x installed. Then install the required libraries.
 
-## ▶️ Usage
-
-Clone the repository and run the script:
-```bash
-git clone https://github.com/your-username/Google-Search-Analysis.git
-cd Google-Search-Analysis
-python Google_SearchAnalysis.py
-```
-
-The script will fetch Google Trends data and generate insights with both **console outputs** and **visual charts**.
-
 
 ## 📊 Sample Outputs
 
