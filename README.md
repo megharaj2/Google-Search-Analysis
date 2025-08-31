@@ -17,15 +17,15 @@ It provides insights into **interest over time, regional popularity, related que
 
 ## 📂 Project Structure
 
-Google-Search-Analysis/
-│
-├── Google\_SearchAnalysis.py   # Main Python script
-├── README.md                  # Project documentation
-├── last5.png                  # Blockchain popularity (5 years)
-├── searchinterest.png          # Weekly Data Science trend
-├── AI vs ML.png               # AI vs ML comparison
-├── IBYREGION.png              # Interest by Region (Cloud Computing)
-└── IOT.png                    # Interest Over Time (Cloud Computing)
+- `Google_SearchAnalysis.py` → Main Python script  
+- `README.md` → Project documentation  
+- `last5.png` → Blockchain popularity (5 years)  
+- `searchinterest.png` → Weekly Data Science trend  
+- `AI vs ML.png` → AI vs ML comparison  
+- `IBYREGION.png` → Interest by Region (Cloud Computing)  
+- `IOT.png` → Interest Over Time (Cloud Computing)  
+- `GDA.pdf` → Console output sample  
+
 
 
 ## 🛠️ Installation
@@ -46,25 +46,22 @@ The script will fetch Google Trends data and generate insights with both **conso
 ## 📊 Sample Outputs
 
 ### 🔹 Interest Over Time (Cloud Computing)
-
 ![Interest Over Time](IOT.png)
 
 ### 🔹 Interest by Region (Cloud Computing)
-
 ![Interest by Region](IBYREGION.png)
 
 ### 🔹 AI vs ML Popularity
-
 ![AI vs ML](AI%20vs%20ML.png)
 
 ### 🔹 Weekly Search Interest (Data Science)
-
 ![Weekly Data Science](seachinterest.png)
 
 ### 🔹 Blockchain Popularity (5 Years)
-
 ![Blockchain Trend](last5.png)
 
+📑 **Full console outputs are available here:**  
+➡️ [View GDA.pdf](GDA.pdf)
 
 
 ## 💡 Future Enhancements
